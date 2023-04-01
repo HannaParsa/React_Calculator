@@ -50,3 +50,14 @@
   text-align: center;
   width: 34px;
 }
+.board-row{
+  clear: both;
+  content: '';
+  display: table;
+}
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  padding: 0;
+}
+

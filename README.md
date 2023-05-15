@@ -1,4 +1,4 @@
 # React_Tic_Tac_Toe
 #### this is a simple tic-tac-toe 
-#### you can see the result in the branch master => Result.png
-#### to run the project fork it and enter the command "npm start"
+
+![image](https://github.com/HannaParsa/React_Tic_Tac_Toe/assets/81412872/65e733cd-ca8e-494d-813a-47d468feedad)
